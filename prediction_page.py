@@ -64,3 +64,5 @@ def show_prediction_page():
     st.image("1eiE.gif")
     st.header('Thank you!')
 
+
+show_prediction_page()
